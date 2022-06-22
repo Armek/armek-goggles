@@ -1,0 +1,6 @@
+! name: FFXIV
+! description: Show my preferred results for the game FFXIV at the top
+! public: false
+! author: Armek
+
+$boost=1,site=ffxiv.consolegameswiki.com
