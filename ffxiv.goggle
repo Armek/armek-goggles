@@ -4,5 +4,5 @@
 ! author: Armek
 
 $discard
-$boost=1,site=ffxiv.consolegameswiki.com
-/r/ffxiv$boost=2,site=reddit.com
+$boost=2,site=ffxiv.consolegameswiki.com
+/r/ffxiv$boost=1,site=reddit.com
